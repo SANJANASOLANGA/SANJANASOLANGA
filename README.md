@@ -40,6 +40,13 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 - [LinkedIn](https://www.linkedin.com/in/sanjana-solanga-arachchi)
 - [Personal Website](https://sanjanasolanga.github.io/)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)
+
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjanasolanga&show_icons=true&theme=radical)
