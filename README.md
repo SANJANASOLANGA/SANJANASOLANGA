@@ -9,6 +9,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love traveling!
 
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sanjana-solanga-arachchi)
+- [Personal Website](https://sanjanasolanga.github.io/)
+
 ## Skills
 
 ### Programming Languages
@@ -34,21 +39,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sanjana-solanga-arachchi)
-- [Personal Website](https://sanjanasolanga.github.io/)
-
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanasolanga&layout=compact&theme=radical)
 
 ## Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjanasolanga&theme=radical)
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjanasolanga&show_icons=true&theme=radical)
 
 ---
 
