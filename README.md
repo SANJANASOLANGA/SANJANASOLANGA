@@ -42,7 +42,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanasolanga&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjanasolanga&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjanasolanga&show_icons=true&theme=radical)
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech.
