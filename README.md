@@ -11,12 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 
 ## Skills
 
-- **Languages**: Python, Java, JavaScript
-- **Web Development**: React.js, HTML5, , CSS3, RESTful APIs
-- **Mobile App Development**: React Native
-- **Databases**: MongoDB, MySQL, Firebase
-- **Version Control**: Git, Github
-
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sanjana-solanga-arachchi)
-- [Personal Website](hhttps://sanjanasolanga.github.io/)
+- [Personal Website](https://sanjanasolanga.github.io/)
 
 ## GitHub Stats
 
