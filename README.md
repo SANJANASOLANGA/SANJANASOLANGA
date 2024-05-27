@@ -39,10 +39,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer intern with exp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Most Used Languages
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanasolanga&layout=compact&theme=radical)
 
-## Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjanasolanga&theme=radical)
 
 ---
