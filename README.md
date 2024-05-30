@@ -1,4 +1,4 @@
-## Hi there, I'm Sanjana Solanga Arachchi 👋
+## Hi there, I'm Sewmini Sanjana Solanga Arachchi 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer intern with expertise in various programming languages and technologies. Here's a bit about me:
 
