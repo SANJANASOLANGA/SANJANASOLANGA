@@ -1,6 +1,6 @@
 ## Hi there, I'm Sewmini Sanjana Solanga Arachchi 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer intern with expertise in various programming languages and technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in various programming languages and technologies. Here's a bit about me:
 
 ## About Me
 
